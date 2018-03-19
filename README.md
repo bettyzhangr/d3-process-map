@@ -9,13 +9,13 @@ illustrating the relationships between objects in a process.
 #### Data manipulation and reporting process:
 
 
-[![Default dataset](https://nylen.io/d3-process-map/img/thumb-default.png)](https://nylen.io/d3-process-map/)
-<br>https://nylen.io/d3-process-map/
+[![Default dataset](https://nylen.io/d3-process-map/img/thumb-default.png)](https://bettyzhangr.github.io/d3-process-map/)
+<br>https://bettyzhangr.github.io/d3-process-map/graph.php
 
 #### Co-occurrences of Les Miserables characters:
 
-[![Les Mis dataset](https://nylen.io/d3-process-map/img/thumb-les-mis.png)](https://nylen.io/d3-process-map/?dataset=les-mis)
-<br>https://nylen.io/d3-process-map/?dataset=les-mis
+[![Les Mis dataset](https://nylen.io/d3-process-map/img/thumb-les-mis.png)](https://bettyzhangr.github.io/d3-process-map/?dataset=les-mis)
+<br>https://bettyzhangr.github.io/d3-process-map/?dataset=les-mis
 
 ### Features
 
