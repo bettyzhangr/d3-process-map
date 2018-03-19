@@ -1,21 +1,9 @@
-<html>
-<head>
-<title>My first PHP Page</title>
-</head>
-<body>
-This is normal HTML code
 <?php 
-    
-  <?php
 require_once 'common.php';
-read_config();
+read_config();      
 ?>
-<!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html> <!--<![endif]-->
-    <head>
+<html>
+ <head>
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta charset="utf-8">
         <title><?php echo $config['title']; ?></title>
@@ -53,11 +41,4 @@ read_config();
         </script>
         <script src="script.js"></script>
     </body>
-</html>
-
-?>
-
-Back into normal HTML
-
-</body>
 </html>
